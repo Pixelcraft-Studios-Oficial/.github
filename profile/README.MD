@@ -4,10 +4,9 @@
 
 ![PixelCraft Studio Banner](https://avatars.githubusercontent.com/u/288480829?s=200&v=4)
 
-### Criando experiências únicas para Minecraft, Rust e jogos multiplayer.
+### Criando experiências únicas para Minecraft, Rust, Metin 2, Mu online, Ragnarok, Habbo, Roblox e muito mais...
 
 [![Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge\&logo=discord)](https://discord.gg/)
-[![GitHub](https://img.shields.io/github/followers/Pixelcraft-Studio-Oficial?style=for-the-badge)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
