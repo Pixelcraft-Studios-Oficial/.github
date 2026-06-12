@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/288480829?s=200&v=4" alt="PixelCraft Studio Banner" width="100%">
+<img src="https://avatars.githubusercontent.com/u/288480829?s=200&v=4" alt="PixelCraft Studio Banner" width="50%">
 
 # PixelCraft Studio
 
