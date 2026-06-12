@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![PixelCraft Studio Banner](https://via.placeholder.com/1200x300?text=PixelCraft+Studio)
+![PixelCraft Studio Banner](https://avatars.githubusercontent.com/u/288480829?s=200&v=4)
 
 ### Criando experiências únicas para Minecraft, Rust e jogos multiplayer.
 
