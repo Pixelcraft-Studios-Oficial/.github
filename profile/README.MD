@@ -1,113 +1,289 @@
-# 🎮 PixelCraft Studio
+# 🚀 PixelCraft Studio
 
 <div align="center">
 
-![PixelCraft Studio Banner](https://avatars.githubusercontent.com/u/288480829?s=200&v=4)
+<img src="https://avatars.githubusercontent.com/u/288480829?s=200&v=4" alt="PixelCraft Studio Banner" width="100%">
 
-### Criando experiências únicas para Minecraft, Rust, Metin 2, Mu online, Ragnarok, Habbo, Roblox e muito mais...
+# PixelCraft Studio
 
-[![Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge\&logo=discord)](https://discord.gg/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+### Building the Future of Gaming Communities
+
+Desenvolvimento de servidores, sistemas, plugins, bots, ferramentas e soluções digitais para comunidades de jogos online.
+
+<p>
+<img src="https://img.shields.io/badge/Minecraft-Development-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Rust-Development-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metin2-Development-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/MU%20Online-Development-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Ragnarok-Development-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Roblox-Development-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord">
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre Nós
+# 🌎 Quem Somos
 
-A **PixelCraft Studio** é um estúdio independente focado no desenvolvimento de sistemas, plugins, mods, ferramentas e experiências multiplayer para comunidades de jogos.
+A **PixelCraft Studio** é um estúdio independente especializado no desenvolvimento de soluções para comunidades de jogos online.
 
-Nosso objetivo é fornecer soluções modernas, otimizadas e inovadoras para administradores de servidores, desenvolvedores e jogadores.
+Nosso foco está na criação de sistemas personalizados, plugins, servidores privados, ferramentas administrativas, integrações, bots e plataformas que elevam a experiência dos jogadores e administradores.
 
-### 🎯 Áreas de Atuação
-
-* 🟩 Desenvolvimento de Plugins para Minecraft
-* 🦀 Desenvolvimento de Plugins para Rust (uMod/Oxide/Carbon)
-* ⚙️ Ferramentas e Utilitários para Servidores
-* 🌐 Sistemas Web e Painéis Administrativos
-* 🔒 Segurança Digital e Automação
-* 🎨 Design de Interfaces e Experiência do Usuário
+Atuamos desde a concepção de projetos até a implementação completa da infraestrutura necessária para comunidades de pequeno, médio e grande porte.
 
 ---
 
-## 🛠️ Tecnologias
+# 🎮 Ecossistemas que Desenvolvemos
 
-### Linguagens
+## ⛏️ Minecraft
+
+* Plugins Paper, Spigot e Purpur
+* Redes BungeeCord e Velocity
+* Sistemas RPG
+* MMO Servers
+* Survival
+* SkyBlock
+* Pixelmon
+* Factions
+* Minigames
+* ModelEngine
+* MythicMobs
+* MMOCore
+* MMOItems
+* Integrações Web
+
+---
+
+## 🦀 Rust
+
+* Plugins Carbon
+* Plugins Oxide/uMod
+* Sistemas PvP
+* Eventos Automatizados
+* Torneios
+* Estatísticas
+* Integrações Discord
+* Economia Avançada
+* Clans
+* Leaderboards
+* Sistemas Premium
+* Painéis Administrativos
+
+---
+
+## ⚔️ MU Online
+
+* Desenvolvimento de Websites
+* Sistemas VIP
+* Rankings
+* Integrações SQL
+* Painéis Administrativos
+* Sistemas de Eventos
+* Ferramentas para Game Masters
+
+---
+
+## 🐉 Metin2
+
+* Sistemas personalizados
+* Websites
+* Rankings
+* Ferramentas Administrativas
+* Automações
+* Eventos Globais
+* Integrações Discord
+
+---
+
+## 🪽 Ragnarok Online
+
+* Ferramentas para servidores privados
+* Websites
+* Controle de Contas
+* Painéis Web
+* Sistemas de Ranking
+* Integrações de Banco de Dados
+
+---
+
+## 🤖 Discord
+
+* Bots Personalizados
+* Sistemas de Tickets
+* Moderação
+* Economia
+* Integrações com Jogos
+* Notificações Automáticas
+* Dashboards Web
+* APIs
+
+---
+
+## 🎨 Design & Branding
+
+Criamos identidade visual para comunidades e servidores.
+
+### Serviços
+
+* Logos
+* Banners
+* Artes Promocionais
+* Thumbnails
+* UI/UX
+* Interfaces de Jogos
+* Websites
+* Landing Pages
+* Social Media
+
+---
+
+# 🏗️ O Que Construímos
+
+### Sistemas
+
+* Plataformas Web
+* APIs REST
+* Painéis Administrativos
+* Sistemas de Login
+* Integrações SQL
+* Ferramentas de Monitoramento
+* Sistemas de Estatísticas
+
+### Jogos
+
+* Plugins
+* Mods
+* Scripts
+* Eventos Automatizados
+* Sistemas Econômicos
+* Anti-Cheat
+* Rankings
+* Leaderboards
+
+### Infraestrutura
+
+* Docker
+* Linux
+* Cloud Servers
+* Banco de Dados
+* Automação de Deploy
+* Monitoramento
+
+---
+
+# 💻 Tecnologias
+
+<table>
+<tr>
+<td>
+
+### Backend
 
 * C#
 * Java
+* Kotlin
+* PHP
+* Node.js
+* Python
+* Lua
+
+</td>
+<td>
+
+### Frontend
+
+* HTML5
+* CSS3
 * JavaScript
 * TypeScript
-* PHP
-* Python
-* SQL
+* React
+* Vue
 
-### Plataformas
+</td>
+<td>
 
-* Minecraft Java Edition
-* Minecraft Bedrock Edition
-* Rust
-* Discord
-* Web Applications
+### Database
 
-### Frameworks e APIs
+* MySQL
+* MariaDB
+* PostgreSQL
+* SQLite
+* Redis
 
-* PaperMC
-* Velocity
-* BungeeCord
-* Sponge
-* Oxide/uMod
-* Carbon
-* ASP.NET
-* Node.js
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Projetos
+# 📈 Nossa Missão
 
-Alguns dos projetos desenvolvidos pela PixelCraft Studio:
+Transformar ideias em experiências memoráveis.
 
-| Projeto              | Descrição                                        |
-| -------------------- | ------------------------------------------------ |
-| BloodTournament      | Sistema avançado de torneios para Rust           |
-| Rust Utilities       | Ferramentas administrativas para servidores Rust |
-| Pixel Systems        | Coleção de sistemas para Minecraft               |
-| Discord Integrations | Integrações entre servidores e Discord           |
-| Web Control Panel    | Painel de gerenciamento para comunidades         |
+Acreditamos que uma comunidade forte precisa de tecnologia robusta, design profissional e sistemas que realmente façam diferença na experiência dos jogadores.
+
+Por isso, desenvolvemos soluções escaláveis, modernas e focadas na performance.
 
 ---
 
-## 🤝 Contribuindo
+# 🌟 Diferenciais
 
-Contribuições são sempre bem-vindas.
+✅ Desenvolvimento sob medida
 
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua funcionalidade
-3. Faça suas alterações
-4. Envie um Pull Request
+✅ Código otimizado
+
+✅ Alta performance
+
+✅ Integrações modernas
+
+✅ Segurança digital
+
+✅ Experiência multiplataforma
+
+✅ Suporte contínuo
+
+✅ Projetos escaláveis
+
+✅ Documentação profissional
 
 ---
 
-## 📢 Comunidade
+# 🤝 Parcerias
 
-Junte-se à nossa comunidade para acompanhar novidades, atualizações e novos projetos.
+Estamos sempre abertos para:
 
-* Discord
-* GitHub
-* Website
+* Comunidades Gaming
+* Servidores Privados
+* Criadores de Conteúdo
+* Empresas de Hospedagem
+* Desenvolvedores Independentes
+* Equipes de E-Sports
 
 ---
 
-## 📜 Licença
+# 📬 Contato
 
-Os projetos da PixelCraft Studio podem utilizar diferentes licenças. Consulte o arquivo `LICENSE` de cada repositório para mais informações.
+Entre em contato para orçamentos, parcerias ou desenvolvimento personalizado.
+
+### PixelCraft Studio
+
+📧 [contato@pixelcraftstudio.com](mailto:contato@pixelcraftstudio.com)
+
+🌐 [www.pixelcraftstudio.com](http://www.pixelcraftstudio.com)
+
+💬 Discord Oficial
+
+🐙 GitHub Organization
 
 ---
 
 <div align="center">
 
-### ⭐ Se você gosta dos nossos projetos, deixe uma estrela nos repositórios!
+## ⭐ Desenvolvendo o futuro das comunidades online
 
-**PixelCraft Studio © 2026**
+### PixelCraft Studio © 2026
+
+*"From Pixels to Possibilities."*
 
 </div>
