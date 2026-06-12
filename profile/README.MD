@@ -7,7 +7,7 @@
 ### Criando experiências únicas para Minecraft, Rust e jogos multiplayer.
 
 [![Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge\&logo=discord)](https://discord.gg/)
-[![GitHub](https://img.shields.io/github/followers/PixelCraftStudio?style=for-the-badge)](https://github.com/)
+[![GitHub](https://img.shields.io/github/followers/Pixelcraft-Studio-Oficial?style=for-the-badge)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
