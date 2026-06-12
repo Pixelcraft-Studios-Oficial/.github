@@ -272,9 +272,9 @@ Entre em contato para orçamentos, parcerias ou desenvolvimento personalizado.
 
 🌐 [www.pixelcraft-studio.store](https://pixelcraft-studio.store/)
 
-💬 Discord Oficial
+💬 [Discord Oficial] - (https://discord.com/invite/S9bDRqmtKp)
 
-🐙 GitHub Organization
+🐙 [GitHub Organization] - (https://github.com/Pixelcraft-Studios-Oficial)
 
 ---
 
