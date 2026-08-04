@@ -270,7 +270,7 @@ Entre em contato para orçamentos, parcerias ou desenvolvimento personalizado.
 
 📧 [contato@pixelcraftstudio.com](mailto:contato@pixelcraftstudio.com)
 
-🌐 [www.pixelcraft-studio.store](https://pixelcraft-studio.com/)
+🌐 [www.pixelcraft-studio.com](https://pixelcraft-studio.com/)
 
 💬 [Discord Oficial](https://discord.com/invite/S9bDRqmtKp)
 
